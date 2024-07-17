@@ -1,2 +1,2 @@
 # Prodigy-InfoTech
-This repository contains all the tasks required for the Prodigy InfoTech Machine Learning Internship.
+This repository contains all the files related to the Prodigy InfoTech Machine Learning Internship Task 02.
